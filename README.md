@@ -12,7 +12,7 @@ First clone the repository and install the turtle module. Then run the following
 python main.py
 ```
 
-You may use the arrows to move the snake. The game will auto restart if you hit the wall or your tails.
+You may use the arrows to move the snake. The game will auto restart if you hit the wall or your tail.
 
 Enjoy playing!
 
