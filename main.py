@@ -1,3 +1,11 @@
+##
+# Name: Minh Quan Tran
+# Software Documentation Project
+# CSCI 334 Communication of Computer Sciences
+#
+# @file snake.py
+# @brief This is the main program that run the snake game
+
 import time
 from turtle import Screen
 
