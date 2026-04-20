@@ -1,6 +1,7 @@
 from turtle import Turtle
 
 ##
+# @author Minh Quan Tran
 # @class Scoreboard
 # @brief A class to manage and display the score and high score in the game.
 #

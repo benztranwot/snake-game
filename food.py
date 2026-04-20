@@ -3,6 +3,7 @@ from turtle import Turtle
 
 
 ##
+# @author Minh Quan Tran
 # @class Food
 # @brief Represents the food object in the Snake game.
 #

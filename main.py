@@ -4,6 +4,7 @@
 # CSCI 334 Communication of Computer Sciences
 #
 # @file snake.py
+# @author Minh Quan Tran
 # @brief This is the main program that run the snake game
 
 import time

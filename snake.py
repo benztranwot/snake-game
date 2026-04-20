@@ -2,6 +2,7 @@ from turtle import Turtle
 
 ##
 # @file snake.py
+# @author Minh Quan Tran
 # @brief Defines the Snake class for the Snake Game.
 #
 # Handles snake creation, movement, growth, direction control,
